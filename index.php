@@ -1,24 +1,4 @@
-<!--
-=========================================================
-* Material Kit 2 - v3.0.2
-=========================================================
 
-* Product Page:  https://www.creative-tim.com/product/material-kit 
-* Copyright 2022 Creative Tim (https://www.creative-tim.com)
-* Coded by www.creative-tim.com
-
- =========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. -->
-
-<!--
-=========================================================
-* Medical Certificate Generator
-=========================================================
-
-* Coded by oretnom23@gmail.com
- =========================================================
--->
 <?php 
 session_start();
 require_once('functions.php');
